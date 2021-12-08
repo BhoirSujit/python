@@ -1,2 +1,2 @@
-# example
-Examples for practical
+# Python code
+python codes
