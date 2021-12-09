@@ -1,4 +1,4 @@
-#getting output from user
+#getting intput from user
 first_number = input("Enter your first number : ")
 oprator = input("Enter operator (+,-,*,/,%)")
 second_number = input("Enter your second number : ")
