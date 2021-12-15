@@ -1,4 +1,4 @@
-#upnpack the variable
+#unpack the variables
 
 colour = [red,black,yellow,blue,green]
 a,b,c,d,e = colour
