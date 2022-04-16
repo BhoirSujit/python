@@ -30,7 +30,7 @@ def larNum(arr):
     for i in range(len(arr)):
         if arr[i] > max:
             max = arr[i]
-    print(f"Largest number of array is : {max}")
+    print(f"Largest Number of array is : {max}")
 
 def NoddEven(arr):
     even = 0
@@ -42,9 +42,9 @@ def NoddEven(arr):
             odd += 1
     
     print(f"Even Numbers : {even}")
-    print(f"Odd Number : {odd}")
+    print(f"Odd Numbers : {odd}")
 
-#print oprations
+#print operations
 print("""
 Select Operation
 1: Sum of Element of Array
@@ -54,6 +54,7 @@ Select Operation
 5: Exit
 """)
 
+#ask for operation
 while True:
     ch = int(input("Enter choice for oprations "))
     if ch == 1:
